@@ -32,3 +32,5 @@ O:
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
+
+- Se actualizó la copia del archivo original. Sobre este trabajamos para dejar el original del profesor intacto. Seguimos con los ejercicios 4, 5 y 6; el ejercicio 7 indica utilizar la función "hue", que aún no se ha visto, por lo que no se continuó avanzando con este archivo.
